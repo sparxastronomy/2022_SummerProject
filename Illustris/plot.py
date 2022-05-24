@@ -91,7 +91,7 @@ plt.title('TNG300-3 DM Particles ($z=0$) - 2pCF')
 plt.xlabel('$r ~(Mpc~h^{-1})$',  fontsize=16)
 plt.ylabel("$\\xi(r)$", fontsize=16)
 
-# plt.savefig('2pCF_TNG300.jpg', dpi=300, bbox_inches='tight')
+# plt.savefig('2pCF_TNG300-3.jpg', dpi=300, bbox_inches='tight')
 plt.show()
 
 # saving r_filterd and xi0_filtered in a HDF5 file in a Group

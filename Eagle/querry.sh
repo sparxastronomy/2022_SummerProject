@@ -1,0 +1,1 @@
+wget --http-user=pnm600 --http-passwd=CK205HQn -O StrongFBL0025N0376_FoF.csv "http://galaxy-catalogue.dur.ac.uk:8080/Eagle?action=doQuery&SQL=select GroupCentreOfPotential_x as X, GroupCentreOfPotential_y as Y, GroupCentreOfPotential_z as Z, GroupMass as Mass from Physics_vars..StrongFBL0025N0376_FoF"
