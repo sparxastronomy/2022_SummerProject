@@ -131,3 +131,6 @@ dmypy.json
 # HDF5 files
 *.hdf5
 */*.hdf5
+
+# CSV files
+*.csv
